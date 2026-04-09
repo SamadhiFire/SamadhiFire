@@ -1,7 +1,5 @@
-# Hi, I'm SamadhiFire 👋
+### Hi, I'm SamadhiFire 👋
 
-I try to making complex things clearer and more usable.
+🤖Try to making complex things clearer and more usable.
 
-## Current vibe 🌄
-
-Currently on a hike, powered by hot and sour shredded potatoes.
+🌄Currently maybe on a hike, powered by hot and sour shredded potatoes.
